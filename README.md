@@ -4,4 +4,8 @@
 
 - [洛谷刷题](luogu)
 - [CSP测试](CSP)
+- [python学习](python-learn)
+  - [力扣刷题](python-learn/leetcode)
+  - [pythonTip](python-learn/pythonTip)
+
 
