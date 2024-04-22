@@ -1,0 +1,6 @@
+In Python you can use the `os` module to get the current working directory.
+In Python you can use the `os` module to change the current working directory.
+In Python you can use the `os` module to list the contents of a directory.
+In Python you can use the `os` module to create a directory.
+In Python you can use the `math` module to perform mathematical operations.
+In Python you can use the `random` module to generate random numbers.
